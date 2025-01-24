@@ -1,5 +1,4 @@
 PayPal Integration in Spring Boot
-
 This project demonstrates how to integrate PayPal payment processing into a Spring Boot backend. It covers payment creation, execution, and webhook handling for payment confirmation.
 
 Features
